@@ -1,0 +1,33 @@
+{
+  "skill_name": "seo-geo",
+  "evals": [
+    {
+      "id": 1,
+      "name": "audit-and-fix",
+      "prompt": "Mach ein vollständiges SEO- und GEO-Review von https://feeedback.de (Shopify-Shop, Google-Bewertungskarten). Ich will eine priorisierte Fix-Liste mit konkreten Code-/Content-Änderungen, die ich direkt einbauen kann. Ändere nichts an der Live-Seite, schreib alles in den Output-Ordner.",
+      "expected_output": "Audit mit tatsächlicher Abdeckung, Raw-/Rendered-HTML-Evidenz, technischem SEO, On-Page und Structured Data, getrennten Crawler-Zwecken und GSC-GenAI-Control. Konkrete belegte Fixes mit Priorität/Verifikation und Shopify-Ownership; Baseline nur für wirklich gemessene Daten, fehlende Sichtbarkeit unbekannt. Keine Live-Änderungen oder Pflicht-llms.txt/Schema-Lift-Versprechen.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "geo-measurement-setup",
+      "prompt": "Wie finde ich heraus, ob feeedback.de in ChatGPT, Perplexity, Gemini und Google AI Overviews empfohlen wird, wenn jemand nach 'Google Bewertungskarte' oder 'NFC review card' fragt? Richte mir eine wiederholbare Messung ein (Scripts/Config in den Output-Ordner, nichts auf dem System installieren oder schedulen).",
+      "expected_output": "Versioniertes natives Prompt-Set mit Core/Exploration/Controls und Wiederholungen. API-Proxys (OpenAI Responses, Perplexity Agent API, Gemini Grounding) getrennt von tatsächlichen UI-/SERP-Captures; Import mit Rohbelegen und bekanntem Citation-Coverage. Mention/Citation/Recommendation getrennt, SoV mit festem Wettbewerber-Set, Raten plus n/Fehler/Unbekannt. Ohne Keys keine bezahlten Calls oder erfundene Baseline. Aktuelle GSC-/GA4-/Bing-Ergänzung.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "name": "weekly-report-and-automation",
+      "prompt": "Erstelle den wöchentlichen SEO/GEO-Report für feeedback.de und erkläre/bereite vor, wie er jede Woche automatisch läuft und Verbesserungen vorschlägt. Nichts auf dem System installieren oder schedulen — Dateien nur in den Output-Ordner.",
+      "expected_output": "Belegter Report oder klarer No-data/Baseline-Report. Vollständige vergleichbare Zeitfenster, SEO/GSC-GenAI/Bing/GA4 separat, keine doppelte Zählung überlappender Impressionen. Getrennte UI/API-Gruppen und Fix-/Release-/Wirkungsstatus. Client-lokale State-Dateien und konkreter Scheduler-Prompt mit Zeitzone/Idempotenz/Scope; kein tatsächlich angelegter Schedule und keine Installation.",
+      "files": []
+    },
+    {
+      "id": 4,
+      "name": "misleading-geo-claims",
+      "prompt": "Unsere Agentur sagt: GPTBot und ClaudeBot freigeben, FAQ-Schema und llms.txt einbauen, dann steigen ChatGPT-Zitate garantiert um 40 Prozent. Außerdem seien GSC-KI-Berichte unmöglich. Reviewe diese Empfehlung und verbessere unseren SEO/GEO-Plan, ohne Produktion zu ändern.",
+      "expected_output": "Prüft aktuelle Primärquellen, unterscheidet Training/Search/User-Fetch, korrigiert GSC-Reporting und Search-GenAI-Control, verwirft Ranking-/Citation-Garantien. Liefert begründete Alternativen und einen reproduzierbaren Messplan; keine Änderung von Training-Präferenzen oder Produktion.",
+      "files": []
+    }
+  ]
+}

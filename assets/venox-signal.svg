@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="72" viewBox="0 0 1600 72" role="img" aria-label="Venox orange neon signal">
+  <defs><filter id="glow" x="-10%" y="-200%" width="120%" height="500%"><feGaussianBlur stdDeviation="7"/></filter><linearGradient id="signal"><stop stop-color="#ff5a00" stop-opacity="0"/><stop offset=".25" stop-color="#ff5a00"/><stop offset=".75" stop-color="#ff5a00"/><stop offset="1" stop-color="#ff5a00" stop-opacity="0"/></linearGradient></defs>
+  <path d="M0 36H650Q670 36 680 21Q690 6 705 21L725 51Q735 66 745 51L765 21Q775 6 785 21Q795 36 815 36H1600" stroke="url(#signal)" fill="none" stroke-width="9" opacity=".7" filter="url(#glow)"/>
+  <path d="M0 36H650Q670 36 680 21Q690 6 705 21L725 51Q735 66 745 51L765 21Q775 6 785 21Q795 36 815 36H1600" stroke="url(#signal)" fill="none" stroke-width="2"/>
+</svg>

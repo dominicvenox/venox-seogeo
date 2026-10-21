@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO + GEO"
+  short_description: "Websites prüfen, KI-Sichtbarkeit messen und verbessern"
+  default_prompt: "Nutze $seo-geo für einen belegten SEO/GEO-Audit mit konkreten Verbesserungen und einem wiederholbaren Messplan."
