@@ -9,7 +9,7 @@
   <g font-family="Arial,Helvetica,sans-serif">
     <g fill="#ff7b32" font-size="18" letter-spacing="4"><text x="55" y="55">01 /</text><text x="455" y="55">02 /</text><text x="855" y="55">03 /</text><text x="1255" y="55">04 /</text></g>
     <g fill="#f2eee7" font-size="38" font-weight="700" letter-spacing="1"><text x="55" y="112">AUDIT</text><text x="455" y="112">MEASURE</text><text x="855" y="112">IMPROVE</text><text x="1255" y="112">REPEAT</text></g>
-    <g fill="#a8a8ad" font-size="20"><text x="55" y="149">Verstehen, was bremst.</text><text x="455" y="149">Sichtbarkeit belegen.</text><text x="855" y="149">Änderungen prüfen.</text><text x="1255" y="149">Jede Woche weiterlernen.</text></g>
+    <g fill="#a8a8ad" font-size="20"><text x="55" y="149">Find what holds you back.</text><text x="455" y="149">Measure visibility.</text><text x="855" y="149">Verify changes.</text><text x="1255" y="149">Learn every week.</text></g>
   </g>
   <g fill="#ffd8bd" stroke="#ff681f" stroke-width="3"><circle cx="55" cy="187" r="6"/><circle cx="455" cy="187" r="6"/><circle cx="855" cy="187" r="6"/><circle cx="1255" cy="187" r="6"/></g>
 </svg>
